@@ -1,2 +1,2 @@
 # Hello-world
-Découvert GitHub avec Oclock
+Découverte GitHub avec Oclock
